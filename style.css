@@ -39,14 +39,14 @@ ul.topnav li.icon {
     display: block;
   }
 }
-@media screen and (max-width: 680px){
-    ul.topnav.responsive li.icon{
-        position: absolute;
-        right: 0;
-        top: 0;
-
-    }
-    ul.topnav.responsive li {
-        
-    }
+@media screen and (max-width: 680px) {
+  ul.topnav.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.topnav.responsive li {
+    float: none;
+    display: inline-block;
+  }
 }
