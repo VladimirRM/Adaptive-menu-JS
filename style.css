@@ -49,4 +49,8 @@ ul.topnav li.icon {
     float: none;
     display: inline-block;
   }
+  ul.topnav.responsive li  a{
+    float: none;
+    display: inline-block;
+  }
 }
