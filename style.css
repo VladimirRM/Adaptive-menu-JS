@@ -44,6 +44,9 @@ ul.topnav li.icon {
         position: absolute;
         right: 0;
         top: 0;
+
+    }
+    ul.topnav.responsive li {
         
     }
 }
